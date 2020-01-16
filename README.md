@@ -1,1 +1,10 @@
 # lol
+<!DOCTYPE html>
+<html>
+<head>
+	<title>змейка</title>
+</head>
+<body>
+
+</body>
+</html>
